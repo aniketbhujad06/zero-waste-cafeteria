@@ -1,7 +1,4 @@
 
-  # Food Donation Dashboard
-
-  This is a code bundle for Food Donation Dashboard. The original project is available at https://www.figma.com/design/IEseRVc4DL1jsxe9PhAZ9k/Food-Donation-Dashboard.
 
   ## Running the code
 
